@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: matvan@umich.edu
-- 😄 Pronouns: he/him
+<!-- 😄 Pronouns: -->
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
